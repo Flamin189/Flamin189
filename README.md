@@ -1,40 +1,38 @@
-Hi 👋 My name is FLAMIN DAVID
-Pre-final year student at St. Joseph's college of engineering
-Hi there! 👋 I'm a passionate Full Stack Developer with a love for creating impactful and engaging digital experiences. My journey into coding began with a simple curiosity, and it quickly turned into a full-blown passion. Today, I enjoy building everything from small personal projects to large-scale applications that solve real-world problems.
+## Arun Gokul K’s GitHub Profile
 
-🔧 What I Do
-I work across the full spectrum of web development, meaning I'm comfortable diving into both front-end and back-end technologies. From crafting intuitive, user-friendly interfaces to building robust server-side logic, I thrive on challenges that span the whole stack. Whether it's the beauty of a well-structured front-end or the intricacy of scalable back-end solutions, I enjoy it all.
+👋 Hi, I’m FLAMIN DAVID
+👀 I’m interested in Machine learing,Cloud Computing,Backend Development
+🌱 I’m currently pursuing a Bachelors Degree in Computer science at SJCE
+💞 I’m looking forward to collaborate with my fellow coders
+📫 reach me at arungokul2005@gmail.com
+⚡ Fun fact: you have spent 20secs reading about me
 
-⚙️ Tech Stack
-I primarily use JavaScript and its powerful ecosystem, including:
+---
 
-Frontend: React.js, HTML, CSS, JavaScript
-Backend: Node.js, Express.js, Java, Spring Boot
-Databases: MongoDB, MySQL
-Other Tools: Git, Docker, REST APIs, GraphQL
+### My Skillset
 
-🚀 Projects
-I believe in the power of technology to make a positive impact. During my time as a developer, I've worked on:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-E-commerce platforms: To enhance user shopping experience.
-To-Do List Applications: Helping people stay organized and productive.
-Leave Management Systems: Simplifying HR processes for teams.
-Digital Twin Systems for Hackathons: Leveraging technology to optimize urban infrastructure.
+---
 
-📈 My Journey
-My experiences at Main Flow Services and Technologies and in various personal projects have sharpened my skills in full stack development. I've been part of an incredible journey that has helped me not only develop my technical skills but also gain insights into the professional world—collaborating with teams, solving real-time issues, and always staying curious.
+### 📫 Connect with Me
 
-🌱 Currently Learning
-The tech world is ever-changing, and I believe in continuous learning:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arungokul2005/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arungokul2005)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arungokul2005/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/arungokul2005/)
 
-Exploring Cloud Services (AWS, Azure)
-Deepening my knowledge in Data Structures and Algorithms.
-Keeping up with the latest advancements in React and Java frameworks.
+---
 
-🤝 Let's Connect!
-I love collaborating with other developers, open-source enthusiasts, and anyone who shares a passion for building meaningful software. Feel free to reach out to me if you'd like to work on a project together or just want to talk about tech, startups, or anything under the sun.
+Feel free to reach out if you'd like to collaborate on any project or just want to say hi!
 
-📫 How to reach me:
-
-Email: flamin2004@gmail.com
-LinkedIn: https://www.linkedin.com/in/flamin-david-79b610257/
+---
