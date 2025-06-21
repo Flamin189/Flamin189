@@ -1,7 +1,7 @@
 ## FLAMIN DAVID’s GitHub Profile
 
 👋 Hi, I’m FLAMIN DAVID
-👀 I’m interested in Machine learing,Cloud Computing,Backend Development
+👀 I’m interested in FullStack Web Development
 🌱 I’m currently pursuing a Bachelors Degree in Computer science at SJCE
 💞 I’m looking forward to collaborate with my fellow coders
 📫 reach me at flamin2004@gmail.com
@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
